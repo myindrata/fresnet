@@ -57,8 +57,3 @@ python train_cwfid.py \
 ```
 
 ---
-
-## Google Drive Mirror
-
-For permanent open access and additional raw training logs / TensorBoard event logs, model weights and checkpoints can also be accessed via the open Google Drive mirror:
-* **Google Drive Open Mirror:** `[Insert Public Google Drive Folder Link Here]`
